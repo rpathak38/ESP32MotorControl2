@@ -1,13 +1,13 @@
 {
-  "name": "ESP32MotorControl",
-  "keywords": "ESP32, Motor, H-bridge, MCPWM",
-  "description": "Motor control using ESP32 MCPWM",
+  "name": "ESP32_DRV8833_Control",
+  "keywords": "ESP32, Motor, H-bridge, MCPWM, DRV8833",
+  "description": "Motor control using ESP32 MCPWM for DRV8833",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/pieniacy/ESP32MotorControl.git"
+    "url": "https://github.com/rpathak38/ESP32_DRV8833_Control
   },
-  "version": "0.2.0",
+  "version": "1.0.0",
   "frameworks": "arduino",
   "platforms": "*"
 }

@@ -1,5 +1,5 @@
-# ESP32MotorControl
-Motor control using ESP32 MCPWM
+# ESP32_DRV833_Control
+Optimized motor control for DRV8833 using ESP32 MCPWM
 
 ### A library to ESP32 control motors using MCPWM
 
@@ -12,7 +12,8 @@ Motor control using ESP32 MCPWM
 
 ## About
 
-This library is for control motors with MCPWM of ESP32 board.
+This library is for control motors with MCPWM of ESP32 board for motors connected with the DRV8833. Code is highly optimized to
+both conserve power and maintain robustness.
 
 [![image](https://docs.espressif.com/projects/esp-idf/en/latest/_images/mcpwm-brushed-dc-control.png)
 (from Espressif documentation)
